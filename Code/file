@@ -1,2 +1,7 @@
-master changer
+<<<<<<< HEAD
+
 master change 2
+=======
+
+change by branch 
+>>>>>>> Feature-Branching
