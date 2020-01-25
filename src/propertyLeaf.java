@@ -5,4 +5,5 @@ interface  propertyLeaf {
    public String getName();
    public String getProp();
    public MenuList getparent(Leaf leaf);
+   public void ch();
 }
